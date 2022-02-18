@@ -1,0 +1,72 @@
+body{
+
+    
+
+}
+
+#headersection{
+
+    padding: 10px;
+    color: black;
+
+}
+
+#headersection h1{
+
+    font-family: cursive;
+
+}
+
+input{
+
+    padding: 10px;
+    border-radius: 5px ;
+
+}
+
+#dropbox{
+
+    padding: 10px;
+    border-radius: 5px ;
+    width: 15%;
+
+}
+
+#loginbutton{
+
+    padding: 10px;
+    border-radius: 5px ;
+    background-color: aqua;
+    color: black;
+    border: none;
+
+}
+
+#address{
+
+    width: 19%;
+
+}
+
+#imagepart{
+
+    text-align: center;
+
+}
+
+{
+    padding: 10px;
+    border-radius: 5px ;
+    width: 15%;
+}
+
+#registerbutton{
+
+    padding: 10px;
+    border-radius: 5px ;
+    background-color: aqua;
+    color: black;
+    border: none;
+    width: 19%;
+
+}
